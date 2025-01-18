@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Julia Climate  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://juliaclimate.org </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Climate Science tools and data developed in Julia.  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://juliaclimate.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
